@@ -1,6 +1,6 @@
 # Album-Activities-
 
-![Image text](http://www.optimal-group.org/Image/20201017_Hefei.jpg)
+![alt Image text](http://www.optimal-group.org/Image/20201017_Hefei.jpg)
 ![Image text](http://www.optimal-group.org/Image/20201017_Hefei2.jpg)
 
 ![Image text](http://www.optimal-group.org/Image/20201017_Hefei3.jpg)
